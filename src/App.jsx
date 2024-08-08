@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <header className="header">
-          <a href="" className="logo">Sarfaraz.</a>
+          <a href="" className="logo">Sarfaraz</a>
           <div className="bx bx-menu" id="menu-icon"></div>
           <nav className="navbar">
             <a href="#home" className="active">Home</a>
